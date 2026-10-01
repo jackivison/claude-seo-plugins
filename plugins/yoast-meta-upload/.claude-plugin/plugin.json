@@ -1,0 +1,12 @@
+{
+  "name": "yoast-meta-upload",
+  "version": "1.0.0",
+  "description": "Upload approved SEO titles and meta descriptions to WordPress Yoast in bulk, exactly as approved, with a dry run, an undo record and a live check of every page. Uses the REST API where Yoast allows it and Yoast's bulk editor in your logged-in browser everywhere else.",
+  "author": {
+    "name": "Jack Ivison"
+  },
+  "homepage": "https://github.com/zabkaking/claude-seo-plugins",
+  "repository": "https://github.com/zabkaking/claude-seo-plugins",
+  "license": "MIT",
+  "keywords": ["seo", "wordpress", "yoast", "meta-description", "title-tags", "bulk-upload"]
+}

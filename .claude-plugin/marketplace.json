@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "seo-workflows",
+  "description": "SEO workflows for Claude Code, proven on real client sites.",
+  "owner": {
+    "name": "Jack Ivison"
+  },
+  "plugins": [
+    {
+      "name": "yoast-meta-upload",
+      "description": "Upload approved SEO titles and meta descriptions to WordPress Yoast in bulk, exactly as approved, with a dry run, an undo record and a live check of every page.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jack Ivison"
+      },
+      "source": "./plugins/yoast-meta-upload",
+      "category": "productivity",
+      "homepage": "https://github.com/zabkaking/claude-seo-plugins/tree/main/plugins/yoast-meta-upload"
+    }
+  ]
+}

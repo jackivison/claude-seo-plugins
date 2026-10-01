@@ -1,0 +1,2 @@
+Post ID,Post type,URL,Current title,Current description,New title,New description,Title chars,Title px (est.),Desc chars,Approved,Route,Uploaded,Live title matches,Live desc matches,Old title (undo),Old desc (undo),Notes
+1234,page,https://example.com/services/,Services | Example,Old description here.,Plant Hire Services in Manchester | Example,Plant and tool hire across Manchester with next-day delivery on most kit. See what we hire and get a quote today.,43,,112,Yes,Bulk editor,No,No,No,,,
