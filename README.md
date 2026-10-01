@@ -5,7 +5,7 @@ A Claude Code plugin marketplace of SEO workflows, each proven on real client si
 ## Add the marketplace
 
 ```
-/plugin marketplace add zabkaking/claude-seo-plugins
+/plugin marketplace add jackivison/claude-seo-plugins
 ```
 
 ## Plugins

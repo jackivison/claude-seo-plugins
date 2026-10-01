@@ -5,8 +5,8 @@
   "author": {
     "name": "Jack Ivison"
   },
-  "homepage": "https://github.com/zabkaking/claude-seo-plugins",
-  "repository": "https://github.com/zabkaking/claude-seo-plugins",
+  "homepage": "https://github.com/jackivison/claude-seo-plugins",
+  "repository": "https://github.com/jackivison/claude-seo-plugins",
   "license": "MIT",
   "keywords": ["seo", "wordpress", "yoast", "meta-description", "title-tags", "bulk-upload"]
 }

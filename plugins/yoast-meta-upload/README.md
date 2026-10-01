@@ -14,7 +14,7 @@ Category and tag pages aren't in the bulk editor, so those are done by hand or c
 ## Install
 
 ```
-/plugin marketplace add zabkaking/claude-seo-plugins
+/plugin marketplace add jackivison/claude-seo-plugins
 /plugin install yoast-meta-upload@seo-workflows
 ```
 
